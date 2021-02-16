@@ -1,0 +1,6 @@
+userid: s1
+passwd: p1
+
+char_ip: 192.168.2.10
+bind_ip: 0.0.0.0
+map_ip: 192.168.2.10

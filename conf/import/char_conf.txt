@@ -1,0 +1,7 @@
+bind_ip: 0.0.0.0
+login_ip: 192.168.2.10
+char_ip: 192.168.2.10
+server_name: DockerServer
+
+pincode_enabled: no
+start_point: prontera,146,88

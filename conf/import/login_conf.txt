@@ -1,0 +1,3 @@
+new_account: yes
+ipban_enable: no
+new_acc_length_limit: no
